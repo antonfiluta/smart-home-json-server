@@ -3,7 +3,7 @@
     {
       "id": "overview",
       "title": "Overview",
-      "icon": "pi-home",
+      "icon": "home",
       "tabs": [
         {
           "id": "overview",
@@ -16,7 +16,7 @@
               "items": [
                 {
                   "type": "sensor",
-                  "icon": "pi-sun",
+                  "icon": "sun",
                   "label": "Temperature",
                   "value": {
                     "amount": 18.5,
@@ -26,7 +26,7 @@
                 },
                 {
                   "type": "sensor",
-                  "icon": "pi-sliders-h",
+                  "icon": "sliders-h",
                   "label": "Humidity",
                   "value": {
                     "amount": 72,
@@ -36,7 +36,7 @@
                 },
                 {
                   "type": "sensor",
-                  "icon": "pi-cloud",
+                  "icon": "cloud",
                   "label": "Weather",
                   "value": {
                     "amount": 1,
@@ -53,7 +53,7 @@
               "items": [
                 {
                   "type": "sensor",
-                  "icon": "pi-circle",
+                  "icon": "circle",
                   "label": "CO2 Sensor",
                   "value": {
                     "amount": 520,
@@ -63,7 +63,7 @@
                 },
                 {
                   "type": "sensor",
-                  "icon": "pi-sliders-h",
+                  "icon": "sliders-h",
                   "label": "Humidity",
                   "value": {
                     "amount": 45,
@@ -80,7 +80,7 @@
               "items": [
                 {
                   "type": "sensor",
-                  "icon": "pi-eye",
+                  "icon": "eye",
                   "label": "Motion Sensor",
                   "value": {
                     "amount": 1,
@@ -97,21 +97,21 @@
               "items": [
                 {
                   "type": "device",
-                  "icon": "pi-lightbulb",
+                  "icon": "lightbulb",
                   "label": "Floor Lamp",
                   "state": true,
                   "id": "c5d6e7f8-a9b0-4c1d-b2e3-f4a5b6c7d8e9"
                 },
                 {
                   "type": "device",
-                  "icon": "pi-desktop",
+                  "icon": "desktop",
                   "label": "TV Socket",
                   "state": false,
                   "id": "d7e8f9a0-1b2c-4d3e-b4f5-c6d7e8f9a0b1"
                 },
                 {
                   "type": "sensor",
-                  "icon": "pi-sun",
+                  "icon": "sun",
                   "label": "Temperature",
                   "value": {
                     "amount": 23.5,
@@ -121,7 +121,7 @@
                 },
                 {
                   "type": "sensor",
-                  "icon": "pi-circle",
+                  "icon": "circle",
                   "label": "CO2 Sensor",
                   "value": {
                     "amount": 610,
@@ -138,14 +138,14 @@
               "items": [
                 {
                   "type": "device",
-                  "icon": "pi-car",
+                  "icon": "car",
                   "label": "Door Lock",
                   "state": false,
                   "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d"
                 },
                 {
                   "type": "sensor",
-                  "icon": "pi-chart-line",
+                  "icon": "chart-line",
                   "label": "Air Quality",
                   "value": {
                     "amount": 85,
@@ -155,7 +155,7 @@
                 },
                 {
                   "type": "sensor",
-                  "icon": "pi-bolt",
+                  "icon": "bolt",
                   "label": "Power Usage",
                   "value": {
                     "amount": 2.4,
@@ -172,21 +172,21 @@
               "items": [
                 {
                   "type": "device",
-                  "icon": "pi-desktop",
+                  "icon": "desktop",
                   "label": "Monitor",
                   "state": true,
                   "id": "d4e5f6a7-b8c9-4d0e-a1f2-3b4c5d6e7f8a"
                 },
                 {
                   "type": "device",
-                  "icon": "pi-mobile",
+                  "icon": "mobile",
                   "label": "Phone Charger",
                   "state": false,
                   "id": "e5f6a7b8-c9d0-4e1f-a2b3-4c5d6e7f8a9b"
                 },
                 {
                   "type": "sensor",
-                  "icon": "pi-volume-up",
+                  "icon": "volume-up",
                   "label": "Noise Level",
                   "value": {
                     "amount": 38,
@@ -203,7 +203,7 @@
               "items": [
                 {
                   "type": "sensor",
-                  "icon": "pi-sliders-h",
+                  "icon": "sliders-h",
                   "label": "Soil Moisture",
                   "value": {
                     "amount": 60,
@@ -213,7 +213,7 @@
                 },
                 {
                   "type": "sensor",
-                  "icon": "pi-sun",
+                  "icon": "sun",
                   "label": "UV Index",
                   "value": {
                     "amount": 3,
@@ -223,7 +223,7 @@
                 },
                 {
                   "type": "device",
-                  "icon": "pi-camera",
+                  "icon": "camera",
                   "label": "Security Cam",
                   "state": true,
                   "id": "c9d0e1f2-a3b4-4c5d-6e7f-8a9b0c1d2e3f"
@@ -237,21 +237,21 @@
               "items": [
                 {
                   "type": "device",
-                  "icon": "pi-video",
+                  "icon": "video",
                   "label": "Smart TV",
                   "state": true,
                   "id": "d0e1f2a3-b4c5-4d6e-7f8a-9b0c1d2e3f4a"
                 },
                 {
                   "type": "device",
-                  "icon": "pi-volume-up",
+                  "icon": "volume-up",
                   "label": "Speaker",
                   "state": false,
                   "id": "e1f2a3b4-c5d6-4e7f-8a9b-0c1d2e3f4a5b"
                 },
                 {
                   "type": "sensor",
-                  "icon": "pi-sliders-h",
+                  "icon": "sliders-h",
                   "label": "Humidity",
                   "value": {
                     "amount": 50,
@@ -268,7 +268,7 @@
               "items": [
                 {
                   "type": "sensor",
-                  "icon": "pi-sun",
+                  "icon": "sun",
                   "label": "Temperature",
                   "value": {
                     "amount": 22.0,
@@ -278,7 +278,7 @@
                 },
                 {
                   "type": "sensor",
-                  "icon": "pi-sliders-h",
+                  "icon": "sliders-h",
                   "label": "Humidity",
                   "value": {
                     "amount": 55,
@@ -288,7 +288,7 @@
                 },
                 {
                   "type": "sensor",
-                  "icon": "pi-bell",
+                  "icon": "bell",
                   "label": "Smoke Detector",
                   "value": {
                     "amount": 0,
@@ -305,7 +305,7 @@
               "items": [
                 {
                   "type": "sensor",
-                  "icon": "pi-sliders-h",
+                  "icon": "sliders-h",
                   "label": "Water Leak",
                   "value": {
                     "amount": 0,
@@ -315,14 +315,14 @@
                 },
                 {
                   "type": "device",
-                  "icon": "pi-lightbulb",
+                  "icon": "lightbulb",
                   "label": "Ceiling Light",
                   "state": false,
                   "id": "e7f8a9b0-c1d2-4e3f-4a5b-6c7d8e9f0a1b"
                 },
                 {
                   "type": "sensor",
-                  "icon": "pi-sun",
+                  "icon": "sun",
                   "label": "Temperature",
                   "value": {
                     "amount": 19.5,
@@ -345,7 +345,7 @@
               "items": [
                 {
                   "type": "device",
-                  "icon": "pi-lightbulb",
+                  "icon": "lightbulb",
                   "label": "Ceiling Light",
                   "state": true,
                   "id": "a9b0c1d2-e3f4-4a5b-6c7d-8e9f0a1b2c3d"
@@ -359,7 +359,7 @@
               "items": [
                 {
                   "type": "device",
-                  "icon": "pi-lightbulb",
+                  "icon": "lightbulb",
                   "label": "Ceiling Light",
                   "state": false,
                   "id": "b0c1d2e3-f4a5-4b6c-7d8e-9f0a1b2c3d4e"
@@ -373,7 +373,7 @@
               "items": [
                 {
                   "type": "device",
-                  "icon": "pi-lightbulb",
+                  "icon": "lightbulb",
                   "label": "Chandelier",
                   "state": true,
                   "id": "c1d2e3f4-a5b6-4c7d-8e9f-0a1b2c3d4e5f"
@@ -387,14 +387,14 @@
               "items": [
                 {
                   "type": "device",
-                  "icon": "pi-lightbulb",
+                  "icon": "lightbulb",
                   "label": "Main Light",
                   "state": true,
                   "id": "d2e3f4a5-b6c7-4d8e-9f0a-1b2c3d4e5f6a"
                 },
                 {
                   "type": "device",
-                  "icon": "pi-lightbulb",
+                  "icon": "lightbulb",
                   "label": "Bedside Light",
                   "state": true,
                   "id": "e3f4a5b6-c7d8-4e9f-a0b1-2c3d4e5f6a7b"
@@ -408,7 +408,7 @@
               "items": [
                 {
                   "type": "device",
-                  "icon": "pi-lightbulb",
+                  "icon": "lightbulb",
                   "label": "Ceiling Light",
                   "state": false,
                   "id": "f4a5b6c7-d8e9-4f0a-1b2c-3d4e5f6a7b8c"
@@ -422,14 +422,14 @@
               "items": [
                 {
                   "type": "device",
-                  "icon": "pi-lightbulb",
+                  "icon": "lightbulb",
                   "label": "Overhead Light",
                   "state": true,
                   "id": "a5b6c7d8-e9f0-4a1b-2c3d-4e5f6a7b8c9d"
                 },
                 {
                   "type": "device",
-                  "icon": "pi-lightbulb",
+                  "icon": "lightbulb",
                   "label": "Workbench Light",
                   "state": false,
                   "id": "b6c7d8e9-f0a1-4b2c-3d4e-5f6a7b8c9d0e"
@@ -443,14 +443,14 @@
               "items": [
                 {
                   "type": "device",
-                  "icon": "pi-lightbulb",
+                  "icon": "lightbulb",
                   "label": "Path Lights",
                   "state": true,
                   "id": "c7d8e9f0-a1b2-4c3d-4e5f-6a7b8c9d0e1f"
                 },
                 {
                   "type": "device",
-                  "icon": "pi-lightbulb",
+                  "icon": "lightbulb",
                   "label": "Spotlight",
                   "state": false,
                   "id": "d8e9f0a1-b2c3-4d4e-5f6a-7b8c9d0e1f2a"
@@ -464,14 +464,14 @@
               "items": [
                 {
                   "type": "device",
-                  "icon": "pi-lightbulb",
+                  "icon": "lightbulb",
                   "label": "Desk Lamp",
                   "state": true,
                   "id": "e9f0a1b2-c3d4-4e5f-a6b7-c8d9e0f1a2b3"
                 },
                 {
                   "type": "device",
-                  "icon": "pi-lightbulb",
+                  "icon": "lightbulb",
                   "label": "Ceiling Light",
                   "state": true,
                   "id": "f0a1b2c3-d4e5-4f6a-b7c8-d9e0f1a2b3c4"
@@ -485,14 +485,14 @@
               "items": [
                 {
                   "type": "device",
-                  "icon": "pi-lightbulb",
+                  "icon": "lightbulb",
                   "label": "Ceiling Light",
                   "state": true,
                   "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d"
                 },
                 {
                   "type": "device",
-                  "icon": "pi-lightbulb",
+                  "icon": "lightbulb",
                   "label": "Night Light",
                   "state": false,
                   "id": "b2c3d4e5-f6a7-4b8c-9d0e-1f2a3b4c5d6e"
@@ -506,7 +506,7 @@
               "items": [
                 {
                   "type": "device",
-                  "icon": "pi-lightbulb",
+                  "icon": "lightbulb",
                   "label": "Wall Light",
                   "state": true,
                   "id": "c3d4e5f6-a7b8-4c9d-a0e1-2f3a4b5c6d7e"
@@ -520,14 +520,14 @@
               "items": [
                 {
                   "type": "device",
-                  "icon": "pi-lightbulb",
+                  "icon": "lightbulb",
                   "label": "Step Lights",
                   "state": true,
                   "id": "d4e5f6a7-b8c9-4d0e-a1f2-3b4c5d6e7f8a"
                 },
                 {
                   "type": "device",
-                  "icon": "pi-lightbulb",
+                  "icon": "lightbulb",
                   "label": "Landing Light",
                   "state": false,
                   "id": "e5f6a7b8-c9d0-4e1f-a2b3-4c5d6e7f8a9b"
@@ -541,7 +541,7 @@
               "items": [
                 {
                   "type": "device",
-                  "icon": "pi-lightbulb",
+                  "icon": "lightbulb",
                   "label": "Ceiling Light",
                   "state": true,
                   "id": "f6a7b8c9-d0e1-4f2a-b3c4-5d6e7f8a9b0c"
@@ -555,7 +555,7 @@
               "items": [
                 {
                   "type": "device",
-                  "icon": "pi-lightbulb",
+                  "icon": "lightbulb",
                   "label": "Main Light",
                   "state": false,
                   "id": "a7b8c9d0-e1f2-4a3b-4c5d-6e7f8a9b0c1d"
@@ -569,7 +569,7 @@
               "items": [
                 {
                   "type": "device",
-                  "icon": "pi-lightbulb",
+                  "icon": "lightbulb",
                   "label": "Porch Light",
                   "state": true,
                   "id": "b8c9d0e1-f2a3-4b4c-5d6e-7f8a9b0c1d2e"
@@ -588,7 +588,7 @@
     {
       "id": "electricity",
       "title": "Electricity",
-      "icon": "pi-bolt",
+      "icon": "bolt",
       "tabs": [
         {
           "id": "usage",
@@ -601,7 +601,7 @@
               "items": [
                 {
                   "type": "sensor",
-                  "icon": "pi-bolt",
+                  "icon": "bolt",
                   "label": "Total Usage",
                   "value": {
                     "amount": 2.5,
@@ -611,7 +611,7 @@
                 },
                 {
                   "type": "sensor",
-                  "icon": "pi-clock",
+                  "icon": "clock",
                   "label": "Peak Hour",
                   "value": {
                     "amount": 1,
@@ -628,7 +628,7 @@
               "items": [
                 {
                   "type": "sensor",
-                  "icon": "pi-desktop",
+                  "icon": "desktop",
                   "label": "TV",
                   "value": {
                     "amount": 0.8,
@@ -638,7 +638,7 @@
                 },
                 {
                   "type": "sensor",
-                  "icon": "pi-cog",
+                  "icon": "cog",
                   "label": "Microwave",
                   "value": {
                     "amount": 0.5,
@@ -648,7 +648,7 @@
                 },
                 {
                   "type": "sensor",
-                  "icon": "pi-sun",
+                  "icon": "sun",
                   "label": "Heater",
                   "value": {
                     "amount": 1.2,
@@ -658,7 +658,7 @@
                 },
                 {
                   "type": "sensor",
-                  "icon": "pi-cog",
+                  "icon": "cog",
                   "label": "Air Conditioner",
                   "value": {
                     "amount": 1.8,
@@ -681,7 +681,7 @@
               "items": [
                 {
                   "type": "sensor",
-                  "icon": "pi-bolt",
+                  "icon": "bolt",
                   "label": "Total Usage",
                   "value": {
                     "amount": 2.5,
@@ -691,7 +691,7 @@
                 },
                 {
                   "type": "sensor",
-                  "icon": "pi-clock",
+                  "icon": "clock",
                   "label": "Peak Hour",
                   "value": {
                     "amount": 1,
@@ -708,7 +708,7 @@
     {
       "id": "climate",
       "title": "Climate",
-      "icon": "pi-sun",
+      "icon": "sun",
       "tabs": [
         {
           "id": "inside",
@@ -721,7 +721,7 @@
               "items": [
                 {
                   "type": "sensor",
-                  "icon": "pi-sun",
+                  "icon": "sun",
                   "label": "Temperature",
                   "value": {
                     "amount": 21.0,
@@ -731,7 +731,7 @@
                 },
                 {
                   "type": "sensor",
-                  "icon": "pi-sliders-h",
+                  "icon": "sliders-h",
                   "label": "Humidity",
                   "value": {
                     "amount": 40,
@@ -748,7 +748,7 @@
               "items": [
                 {
                   "type": "sensor",
-                  "icon": "pi-sun",
+                  "icon": "sun",
                   "label": "Temperature",
                   "value": {
                     "amount": 22.8,
@@ -758,7 +758,7 @@
                 },
                 {
                   "type": "sensor",
-                  "icon": "pi-circle",
+                  "icon": "circle",
                   "label": "CO2",
                   "value": {
                     "amount": 460,
@@ -775,7 +775,7 @@
               "items": [
                 {
                   "type": "sensor",
-                  "icon": "pi-sun",
+                  "icon": "sun",
                   "label": "Temperature",
                   "value": {
                     "amount": 20.5,
@@ -785,7 +785,7 @@
                 },
                 {
                   "type": "sensor",
-                  "icon": "pi-sliders-h",
+                  "icon": "sliders-h",
                   "label": "Humidity",
                   "value": {
                     "amount": 48,
@@ -795,7 +795,7 @@
                 },
                 {
                   "type": "device",
-                  "icon": "pi-cog",
+                  "icon": "cog",
                   "label": "Air Conditioner",
                   "state": true,
                   "id": "c1d2e3f4-a5b6-4c7d-8e9f-0a1b2c3d4e5f"
@@ -809,7 +809,7 @@
     {
       "id": "security",
       "title": "Security",
-      "icon": "pi-shield",
+      "icon": "shield",
       "tabs": [
         {
           "id": "home-security",
@@ -822,7 +822,7 @@
               "items": [
                 {
                   "type": "device",
-                  "icon": "pi-lock",
+                  "icon": "lock",
                   "label": "Door Lock",
                   "state": true,
                   "id": "d2e3f4a5-b6c7-4d8e-9f0a-1b2c3d4e5f6a"
@@ -836,14 +836,14 @@
               "items": [
                 {
                   "type": "device",
-                  "icon": "pi-video",
+                  "icon": "video",
                   "label": "Camera Front",
                   "state": true,
                   "id": "e3f4a5b6-c7d8-4e9f-a0b1-2c3d4e5f6a7b"
                 },
                 {
                   "type": "sensor",
-                  "icon": "pi-eye",
+                  "icon": "eye",
                   "label": "Motion",
                   "value": {
                     "amount": 1,
@@ -860,7 +860,7 @@
               "items": [
                 {
                   "type": "device",
-                  "icon": "pi-bell",
+                  "icon": "bell",
                   "label": "Main Alarm",
                   "state": false,
                   "id": "a5b6c7d8-e9f0-4a1b-2c3d-4e5f6a7b8c9d"
@@ -874,14 +874,14 @@
               "items": [
                 {
                   "type": "device",
-                  "icon": "pi-video",
+                  "icon": "video",
                   "label": "Camera Back",
                   "state": true,
                   "id": "b6c7d8e9-f0a1-4b2c-3d4e-5f6a7b8c9d0e"
                 },
                 {
                   "type": "sensor",
-                  "icon": "pi-eye",
+                  "icon": "eye",
                   "label": "Motion",
                   "value": {
                     "amount": 0,
